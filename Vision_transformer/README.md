@@ -1,1 +1,1 @@
-In 01autoencoder.ipynb, autoencoder is trained and bottleneck values of each frame act as input in transformers while in 02transformer-b-from-scratch-from visualizing_attention-weights.ipynb, Transformer from scratch is built and class tokens are used as input in transformers that predict the next sequence. 
+In Autoencoder.ipynb, autoencoder is trained and bottleneck values of each frame act as input in transformers while in Vision_transformer.ipynb, Transformer from scratch is built and class tokens are used as input in transformers that predict the next sequence. 
